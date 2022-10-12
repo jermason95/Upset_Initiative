@@ -1,0 +1,17 @@
+{
+	"file": "data/Initiative/Final.csv",
+	"name": "Final Graph",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Path" },
+		{ "type": "integer", "index": 11, "name": "conversionsrate" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 10 }
+	],
+    "author": "Jeremy Mason",
+    "description": "Multi-touch Attribution Analysis.",
+    "source": "Facebook AA"	
+}
