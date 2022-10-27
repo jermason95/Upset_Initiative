@@ -6,9 +6,9 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Path" },
-		{ "type": "integer", "index": 11, "name": "conversionsrate" }
+		{ "type": "integer", "index": 8, "name": "Conversion_Rate" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 10 }
+		{ "format": "binary", "start": 1, "end": 7 }
 	]	
 }
